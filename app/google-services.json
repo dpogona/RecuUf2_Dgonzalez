@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858207157537",
+    "firebase_url": "https://recuuf2-30e32.firebaseio.com",
+    "project_id": "recuuf2-30e32",
+    "storage_bucket": "recuuf2-30e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858207157537:android:5a5a57bd73be8bae",
+        "android_client_info": {
+          "package_name": "com.example.recuuf2_dgonzalez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858207157537-3rnsdb651qvs8ubikgtmd9a730k1mukh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recuuf2_dgonzalez",
+            "certificate_hash": "6df175ca4d43294c5206522cfddb3c7fac875aa3"
+          }
+        },
+        {
+          "client_id": "858207157537-ao50kn4mhrmn0s2vsht1pk153an67bfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEeo7I9IiSB9AkvgKbWMZHQoEFJJ_2BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858207157537-ao50kn4mhrmn0s2vsht1pk153an67bfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
